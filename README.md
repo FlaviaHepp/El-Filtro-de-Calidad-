@@ -91,3 +91,57 @@ La kurtosis te dice si el miedo está justificado.
 Flavia Hepp Proyecto de SQL aplicó un análisis de riesgo basado en eventos.
 Este filtro no busca oportunidades.
 Busca evitar errores irreversibles 🛑📉
+
+***
+🔪 **RSI < 30… ¿oportunidad de compra o cuchillo cayendo?**
+
+Una de las señales más conocidas del análisis técnico es:
+
+👉 **RSI < 30 = sobreventa → posible rebote**
+
+Pero hay un problema…
+
+No todas las caídas son iguales.
+
+---
+
+📊 En este análisis apliqué un filtro adicional:
+
+* RSI < 30 (sobreventa)
+* **Kurtosis > 7** (riesgo extremo de cola)
+
+---
+
+⚠️ ¿Qué significa esto?
+
+👉 RSI bajo → precio cayó fuerte
+👉 Kurtosis alta → esa caída **no es normal**
+
+💡 Es una señal de alerta:
+
+* Eventos extremos más frecuentes
+* Posible colapso estructural
+* Riesgo de noticias negativas (fraude, quiebra, etc.)
+
+---
+
+🚨 Insight clave:
+**No todo lo que está sobrevendido está “barato”…
+a veces está roto.**
+
+---
+
+🧠 Este es el verdadero “filtro de calidad”:
+
+✔️ Evita atrapar cuchillos cayendo
+✔️ Filtra señales falsas de rebote
+✔️ Mejora la gestión de riesgo
+
+---
+
+📉 Porque en trading, el objetivo no es solo encontrar oportunidades…
+es **evitar las malas**.
+
+---
+
+#Quant #Trading #DataScience #RSI #RiskManagement #Kurtosis #Finanzas
